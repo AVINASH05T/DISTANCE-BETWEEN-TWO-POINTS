@@ -19,9 +19,9 @@ End the program.
 
 ### PROGRAM:
 ```c
-Program to find distance between two points.
-Developed by : AVINASH T
-Reference no : 212223230026
+#Program to find distance between two points.
+#Developed by : AVINASH T
+#Reference no : 212223230026
 import math 
 l1 = [4,2]
 l2 = [10,6]
